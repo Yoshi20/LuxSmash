@@ -1,0 +1,2 @@
+# LuxSmash
+Luxembourg Smash Ultimate
